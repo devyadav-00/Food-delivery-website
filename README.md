@@ -1,4 +1,7 @@
 # Food Delivery Website
+Admin side url: https://food-delivery-admin-cpbh.onrender.com
+Client side url: https://food-delivery-frontend-aspv.onrender.com
+Backend url: https://food-delivery-backend-7c12.onrender.com
 
 ## Project Overview
 
