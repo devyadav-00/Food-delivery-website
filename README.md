@@ -34,7 +34,7 @@ All the above functionalities are supported by the backend code. The backend han
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/food-delivery-website.git
+   git clone https://github.com/devyadav-00//Food-delivery-website.git
 cd food-delivery-website
 npm install
 
